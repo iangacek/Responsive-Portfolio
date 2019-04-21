@@ -195,12 +195,16 @@ h3, h2 {
   margin-top: 10px;
   margin-right: 25px;
 }
-
 .int-image {
   /* float: left; */
   width: 200px;
   height: auto;
   margin-top: 10px;
+  /* margin-right: 25px; */
+}
+
+.caption-text {
+  text-align: center;
   margin-right: 25px;
 }
 
